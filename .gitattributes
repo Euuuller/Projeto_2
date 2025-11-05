@@ -1,0 +1,2 @@
+planilhas/**/*.xlsx filter=lfs diff=lfs merge=lfs -text
+planilhas/**/*.xlsm filter=lfs diff=lfs merge=lfs -text

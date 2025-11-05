@@ -1,0 +1,4 @@
+# Ignorar arquivos temporários do Excel
+~.xlsx
+~.xls
+~.xlsm
